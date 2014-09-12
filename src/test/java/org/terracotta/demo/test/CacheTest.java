@@ -1,4 +1,4 @@
-package org.terrcotta.demo.test;
+package org.terracotta.demo.test;
 
 
 import org.junit.Assert;
